@@ -1,0 +1,134 @@
+
+
+div.hero-image {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("home-bg.jpg");
+	background-position: center;
+	height: 500px;
+	opacity: 2;
+	
+}
+
+div.hero-logo{
+	letter-spacing: 1px;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	color: white;
+	padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 80px;
+    padding-bottom: 70px;
+    margin-top: -70px;
+    margin-bottom: -50px;
+    margin-right: -50px;
+    margin-left: 200px;
+
+}
+
+div.hero-nav{
+	letter-spacing: 2px;
+	font-weight: bold;
+	text-align: right;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: -70px;
+    margin-bottom: 300px;
+    margin-right: 200px;
+    margin-left: 300px;
+}
+
+div.hero-title{
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	text-align: center;
+	color: white;
+	margin-top: 100px;
+    margin-bottom: 40px;
+    margin-right: 60px;
+    margin-left: -150px;
+}
+a {
+	text-decoration: none;
+	color: white;
+	margin-right: 40px;
+}
+i{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+hr{
+	opacity: 0.2;
+}
+.header{
+	font-family: WLM Idea Alt Regular;
+	letter-spacing: -2px;
+	font-size: 100px;
+	font-weight: bold;
+	color: white;
+}
+.subheader{
+	font-family: Open Sans;
+	font-size: 20px;
+	font-weight: 60;
+	margin-top: -70px;
+}
+div.content{
+	text-align: left;
+	padding-left: 550px;
+    padding-right: 550px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    line-height: 1.2;
+}
+div.footer{
+	font-size: 20px;
+	opacity: 0.5;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+div.footer1{
+	margin-top: 30px;
+	text-align: center;
+}
+
+span.normal{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+span.semi{
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+span.test{
+	color: black;
+}
+p.space-normal{
+	margin-bottom: 50px;
+}
+p.oblique{
+	font-style: oblique;
+	font-size: 20px;
+	color: gray;
+	margin-top: 10px;
+}
+p.footer-button{
+	font-size: 15px;
+	font-weight: bold;
+}
+button.button1{
+	padding: 5px 20px;
+	background-color: #008CBA;
+	color: white;
+	position: relative;
+	left: 700px;
+
+}
