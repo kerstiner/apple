@@ -53,32 +53,6 @@ div.hero-title{
     margin-right: 60px;
     margin-left: -150px;
 }
-a {
-	text-decoration: none;
-	color: white;
-	margin-right: 40px;
-}
-i{
-	margin-top: 20px;
-	margin-bottom: 20px;
-	margin-right: 20px;
-}
-hr{
-	opacity: 0.2;
-}
-.header{
-	font-family: WLM Idea Alt Regular;
-	letter-spacing: -2px;
-	font-size: 100px;
-	font-weight: bold;
-	color: white;
-}
-.subheader{
-	font-family: Open Sans;
-	font-size: 20px;
-	font-weight: 60;
-	margin-top: -70px;
-}
 div.content{
 	text-align: left;
 	padding-left: 550px;
@@ -98,37 +72,110 @@ div.footer1{
 	margin-top: 30px;
 	text-align: center;
 }
-
-span.normal{
+a {
+	text-decoration: none;
+	color: white;
+	margin-right: 40px;
+}
+i{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+hr{
+	opacity: 0.2;
+}
+p{
+	font-size: 25px;
+}
+input{
+	font-size: 25px;
+	outline: none;
+	opacity: 0.5;
+	width: 100%;
+    border: 1px solid black;
+	float: left;
+	margin: 0;
+	padding: 0;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+}
+textarea{
+	font-size: 25px;
+	outline: none;
+	opacity: 0.5;
+	width: 100%;
+    border: 1px solid black;
+	float: left;
+	margin: 0;
+	padding: 0;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	height: 150px;
+	resize: none;
+}
+.header{
+	font-family: WLM Idea Alt Regular;
+	letter-spacing: -2px;
+	font-size: 100px;
+	font-weight: bold;
+	color: white;
+}
+.subheader{
+	font-family: Open Sans;
+	font-size: 20px;
+	font-weight: 60;
+	margin-top: -70px;
+}
+.normal{
 	font-size: 40px;
 	font-weight: bold;
 	font-family: Arial, Helvetica, sans-serif;
 }
-span.semi{
+.semi{
 	font-size: 20px;
 	font-family: Arial, Helvetica, sans-serif;
 }
-span.test{
+.test{
 	color: black;
 }
-p.space-normal{
+.space-normal{
 	margin-bottom: 50px;
 }
-p.oblique{
+.oblique{
 	font-style: oblique;
 	font-size: 20px;
 	color: gray;
 	margin-top: 10px;
 }
-p.footer-button{
+.footer-button{
+	letter-spacing: 1px;
 	font-size: 15px;
 	font-weight: bold;
 }
-button.button1{
+.button1{
 	padding: 5px 20px;
 	background-color: #008CBA;
 	color: white;
 	position: relative;
 	left: 700px;
 
+}
+.button2{
+	outline: none;
+	margin-top: 30px;
+	padding: 1px 25px;
+	background-color: #008CBA;
+	color: white;
+	position: relative;
+	right: 1px;
+}
+.form{
+	font-size: 25px;
+	opacity: 0.5;
+	padding-left: -100px;
+    padding-right: 30px;
+  
 }
